@@ -150,7 +150,7 @@ A LYORA foi validada com testes estruturados de **assertividade**, **segurança*
 
 Desenvolvido por **Yago Andrade**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?logo=github)](https://github.com/yagoAndrade9)
+[![GitHub](https://img.shields.io/badge/GitHub-yagoAndrade9-181717?logo=github)](https://github.com/yagoAndrade9)
 
 ## 🙏 Créditos
 
