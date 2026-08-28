@@ -13,7 +13,7 @@
 
 ---
 
-A **LYORA** é um assistente financeiro com IA Generativa que ensina iniciantes a investir. Ela traduz o "financês" para uma linguagem simples, explica cada termo antes de usá-lo e nunca empurra produto — sempre mostrando os prós, os contras e o nível de risco de cada aplicação.
+A **LYORA** é um assistente financeiro com IA Generativa que ensina iniciantes a investir. Ela traduz o "financês" para uma linguagem simples, explica cada termo antes de usá-lo e nunca empurra produto, sempre mostrando os prós, os contras e o nível de risco de cada aplicação.
 
 > Projeto desenvolvido como desafio de laboratório da [DIO](https://www.dio.me/), tendo como referência o lab [Bia do Futuro](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro) (Bootcamp Bradesco — GenAI & Dados).
 
