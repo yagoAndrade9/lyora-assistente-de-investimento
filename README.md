@@ -35,7 +35,8 @@ A LYORA resolve isso sendo, antes de tudo, **educativa**. Em vez de só responde
 ## 🖥️ Demonstração
 
 <p align="center">
-  <img src="assets/lyora.png" alt="Tela da LYORA" width="800">
+  <img width="1912" height="868" alt="Captura de tela 2026-08-27 224054" src="https://github.com/user-attachments/assets/85629c06-d39e-488f-bff1-676feaabc35a" />
+alt="Tela da LYORA" width="800">
 </p>
 
 A interface traz, na lateral, o **perfil do cliente** e o **resumo do mês** (entradas, saídas e quanto sobra para investir); no centro, o **chat** com a LYORA. No exemplo, ela explica o que é o CDI de forma simples, calcula gastos por categoria a partir dos dados reais e recusa recomendações que não combinam com o perfil conservador do cliente.
