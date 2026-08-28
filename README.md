@@ -70,7 +70,7 @@ A confiabilidade é o coração do projeto. A LYORA foi construída para **não 
 - ✅ Sempre informa o **nível de risco** de cada sugestão.
 - ✅ Respeita o campo `aceita_risco`: se for `false`, prioriza risco baixo e não empurra renda variável.
 
-**Limitações declaradas:** não acessa dados bancários sensíveis, não substitui um profissional certificado (CFP) e não garante retornos — todo investimento tem risco.
+**Limitações declaradas:** não acessa dados bancários sensíveis, não substitui um profissional certificado (CFP) e não garante retornos, todo investimento tem risco.
 
 ## 🛠️ Tecnologias
 
@@ -96,7 +96,7 @@ pip install streamlit pandas google-genai python-dotenv
 streamlit run src/app.py
 ```
 
-A LYORA abre direto no **modo demo** (respostas simuladas pelos dados) — funciona sem configurar nada.
+A LYORA abre direto no **modo demo** (respostas simuladas pelos dados) funciona sem configurar nada.
 
 Para ativar as respostas completas do **Gemini**, crie um arquivo `.env` na raiz com a sua chave gratuita ([Google AI Studio](https://aistudio.google.com/apikey)):
 
@@ -144,7 +144,7 @@ lyora-assistente-financeiro/
 
 ## 📊 Avaliação
 
-A LYORA foi validada com testes estruturados de **assertividade**, **segurança** e **coerência** — respondendo corretamente a consultas de gastos, admitindo quando não tem a informação, recusando temas fora de finanças e mantendo a recomendação alinhada ao perfil do cliente. Detalhes em [`docs/04-metricas.md`](docs/04-metricas.md).
+A LYORA foi validada com testes estruturados de **assertividade**, **segurança** e **coerência**, respondendo corretamente a consultas de gastos, admitindo quando não tem a informação, recusando temas fora de finanças e mantendo a recomendação alinhada ao perfil do cliente. Detalhes em [`docs/04-metricas.md`](docs/04-metricas.md).
 
 ## 👤 Autor
 
