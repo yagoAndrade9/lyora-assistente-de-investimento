@@ -101,7 +101,7 @@ A LYORA abre direto no **modo demo** (respostas simuladas pelos dados) funciona 
 Para ativar as respostas completas do **Gemini**, crie um arquivo `.env` na raiz com a sua chave gratuita ([Google AI Studio](https://aistudio.google.com/apikey)):
 
 ```
-GEMINI_API_KEY=sua_chave_aqui
+GEMINI_API_KEY=CHAVE_FICTÍCIA
 ```
 
 ## 📂 Estrutura do Repositório
